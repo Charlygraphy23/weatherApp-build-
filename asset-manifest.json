@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c7ad196.chunk.css",
+    "main.js": "/static/js/main.f92af3e7.chunk.js",
+    "main.js.map": "/static/js/main.f92af3e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6021ed92.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6021ed92.js.map",
+    "static/js/2.5b3490e0.chunk.js": "/static/js/2.5b3490e0.chunk.js",
+    "static/js/2.5b3490e0.chunk.js.map": "/static/js/2.5b3490e0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f86e93975b0cae8c6b4c0ea208e03411.js": "/precache-manifest.f86e93975b0cae8c6b4c0ea208e03411.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2c7ad196.chunk.css.map": "/static/css/main.2c7ad196.chunk.css.map",
+    "static/js/2.5b3490e0.chunk.js.LICENSE.txt": "/static/js/2.5b3490e0.chunk.js.LICENSE.txt",
+    "static/media/clearmoon.svg": "/static/media/clearmoon.a249da80.svg",
+    "static/media/cloud.svg": "/static/media/cloud.b332e917.svg",
+    "static/media/dreary.svg": "/static/media/dreary.be5e5d14.svg",
+    "static/media/foggy.svg": "/static/media/foggy.b9430259.svg",
+    "static/media/hazy.svg": "/static/media/hazy.486394a3.svg",
+    "static/media/hazyMoon.svg": "/static/media/hazyMoon.8014033a.svg",
+    "static/media/logoWeather.png": "/static/media/logoWeather.22bc0a36.png",
+    "static/media/moonthunderstorm.svg": "/static/media/moonthunderstorm.a4acb814.svg",
+    "static/media/rain.svg": "/static/media/rain.d6ad1027.svg",
+    "static/media/search.svg": "/static/media/search.fff3ba14.svg",
+    "static/media/searchIcon.png": "/static/media/searchIcon.2fe289a5.png",
+    "static/media/snow.svg": "/static/media/snow.cae6e0b4.svg",
+    "static/media/sunny.svg": "/static/media/sunny.a214b750.svg",
+    "static/media/thunderstorm.svg": "/static/media/thunderstorm.5165477f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6021ed92.js",
+    "static/js/2.5b3490e0.chunk.js",
+    "static/css/main.2c7ad196.chunk.css",
+    "static/js/main.f92af3e7.chunk.js"
+  ]
+}
